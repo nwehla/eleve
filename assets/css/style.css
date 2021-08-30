@@ -1,0 +1,28 @@
+h1{
+    color: chocolate;
+    font-size: 50px;
+}
+h3{
+    color:blue;
+}
+ 
+
+  nav ul{
+    color:red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding:10px;
+    margin:30px;
+}
+div + nav {
+    color:sienna;
+    font-size: 15px;
+    font-weight: bold;
+}
+table, td, th {
+    background-color: burlywood;
+    border: 1px solid #666;    
+    border-collapse: collapse;
+    padding:8px;
+}
